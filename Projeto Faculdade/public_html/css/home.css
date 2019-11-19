@@ -1,0 +1,93 @@
+*{
+        color: #000;
+
+}
+div#corpo-site{
+    padding: 15;
+    margin: auto;
+    clear: both;
+    color: #000;
+}
+
+div.tecnologias img { 
+    
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    align-items: center;
+    color: #000;
+
+}
+div.noiz { 
+    
+    text-align: center;
+    color: #000;
+
+
+}
+div#historia { 
+    
+    text-align: justify;
+    font-size: 20px;
+
+}
+div#historia h1{ 
+    
+    text-align: center;
+
+}
+div#clientes h1{ 
+    
+    text-align: center;
+
+}
+div.tecnologias h1{ 
+    
+    text-align: center;
+
+}
+#historia {
+    width: auto;
+}
+
+.margintopimg {
+    
+    margin-top: 10px;
+}
+.margintopimg:hover {
+    
+    border-radius: 0px;
+}
+#clientes{
+    
+    margin-top: -30px;
+    
+}
+#clientes1{
+    
+    margin-bottom: -30px;
+    
+}
+#clientes1 h1 {
+    text-align: center;
+}
+img.efeitinhozika {
+    
+    border-radius: 750px;
+    
+}
+img.efeitinhozika:hover{
+    
+    border-radius: 0px;
+    -moz-transition: all 1s;
+    -webkit-transition: all 1s;
+    transition: all 1s;
+}
+.clientes{
+    
+}
+#rodape p{
+    color: #FFF;
+}
+
+

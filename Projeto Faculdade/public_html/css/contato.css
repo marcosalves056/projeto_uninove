@@ -1,0 +1,31 @@
+button#butaoinviar{
+    background-color: #8A0808;
+    color: #FFF;
+    margin: auto;
+}
+
+button#butaoinviar:hover{
+    background-color: #800000;
+    border: 1px solid color #FF0000;
+}
+
+div#mapa{
+    margin-top: 30px;
+    height: auto; 
+    width: auto;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+

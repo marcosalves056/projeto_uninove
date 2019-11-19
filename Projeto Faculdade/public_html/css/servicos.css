@@ -1,0 +1,60 @@
+.iconeS {
+    
+    text-align: center;
+    text-decoration-color: black;
+    border-radius: 3px;    
+    
+}
+.iconeS:hover{
+    
+    background-color: #8A0808;
+    color: #ffffff;
+    transition: 0.8s;
+    -moz-transition: 0.8s;
+    -webkit-transition: 0.8s;
+    
+}
+button#botaoReturn:hover{
+    background-color:#A52A2A;
+    color: #FFFFFF;
+    margin: auto;
+}
+button#botaoReturn{
+    background-color: #8A0808;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.zoom:hover img{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.iconeS:hover{
+    
+    background-color: #8A0808;
+    color: #ffffff;
+    transition: 0.8s;
+    -moz-transition: 0.8s;
+    -webkit-transition: 0.8s;
+    
+    
+}
+div#logoM a{
+    text-decoration: none;
+    color: #8A0808;
+    display: block;
+    z-index: 3;  
+}
+
+div#logoM a:hover{ 
+    color: #FFFFFF;
+}
+
+div#textWeb a{
+    
+    text-decoration: none;
+    color: #8A0808;
+    display: block;
+    z-index: 3; 
+}

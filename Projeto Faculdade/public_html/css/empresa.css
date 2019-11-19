@@ -1,0 +1,49 @@
+div#corpo-site{
+    
+    margin: auto;
+    height: 600px;
+    clear: both;
+    margin-top: 20px;
+    font-size: 14pt;
+    padding: 5px;
+    text-align: center;
+    
+}
+div#visao{
+    
+    background-color: rgba (100,8,8,0.6);
+
+}
+div.valores{ 
+    
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;  
+    margin-top: 10px;
+    box-shadow: 0px 0px 20px gray;
+}
+div.valores:hover{ 
+    
+    background-color: #8a0808;
+    color: #fff;
+    transition: 0.8s;
+    -moz-transition: 0.8s;
+    -webkit-transition: 0.8s;
+    border: 1px solid white;
+    
+}
+#mvv{
+    
+    margin:auto;
+}
+
+div#corpo-site h1{
+    
+    text-transform: uppercase;
+}
+
+#selecionada{
+    
+    
+}
+
